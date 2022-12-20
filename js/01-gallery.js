@@ -52,5 +52,3 @@ function closeModal(evt) {
     return instance.close();
   }
 }
-
-console.log(basicLightbox);
